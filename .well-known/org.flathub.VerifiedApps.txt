@@ -1,3 +1,6 @@
+# Flathub Verification
+# https://docs.flathub.org/docs/for-app-authors/verification
+
 # Candy Wrapper (net.hhoney.candy)
 c04b55dc-b032-4666-9f37-040953be2abd
 
